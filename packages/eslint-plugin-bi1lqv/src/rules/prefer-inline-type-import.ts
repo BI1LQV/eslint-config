@@ -13,7 +13,7 @@ export default createEslintRule<Options, MessageIds>({
     type: "suggestion",
     docs: {
       description: "Newline after if",
-      recommended: "error",
+      recommended: "warn",
     },
     fixable: "code",
     schema: [],

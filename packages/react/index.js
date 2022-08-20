@@ -10,7 +10,7 @@ module.exports = {
   },
   rules: {
     "jsx-quotes": [
-      "error",
+      "warn",
       "prefer-double",
     ],
     "react/react-in-jsx-scope": "off",
