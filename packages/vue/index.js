@@ -94,5 +94,8 @@ module.exports = {
     "vue/space-infix-ops": "warn",
     "vue/space-unary-ops": ["warn", { words: true, nonwords: false }],
     "vue/template-curly-spacing": "warn",
+
+    "vue/singleline-html-element-content-newline": "off",
+    "vue/html-self-closing": "off",
   },
 }
