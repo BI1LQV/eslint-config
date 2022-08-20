@@ -188,7 +188,6 @@ module.exports = {
     "semi": ["warn", "never"],
     "curly": ["warn", "multi-or-nest", "consistent"],
     "quotes": ["warn", "double"],
-    "quote-props": ["warn", "consistent-as-needed"],
     "no-unused-vars": "warn",
     "no-param-reassign": "off",
     "array-bracket-spacing": ["warn", "never"],

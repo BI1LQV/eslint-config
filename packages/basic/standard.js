@@ -196,7 +196,7 @@ module.exports = {
     "prefer-const": ["warn", { destructuring: "all" }],
     "prefer-promise-reject-errors": "warn",
     "prefer-regex-literals": ["warn", { disallowRedundantWrapping: true }],
-    "quote-props": ["warn", "as-needed"],
+    "quote-props": ["warn", "consistent"],
     "quotes": ["warn", "double", { avoidEscape: true, allowTemplateLiterals: false }],
     "rest-spread-spacing": ["warn", "never"],
     "semi": ["warn", "never"],
