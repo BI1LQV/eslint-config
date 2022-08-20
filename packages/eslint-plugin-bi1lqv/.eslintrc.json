@@ -1,0 +1,6 @@
+{
+  "extends": "@bi1lqv",
+  "plugins": [
+    "bi1lqv"
+  ]
+}
