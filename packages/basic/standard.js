@@ -52,7 +52,7 @@ module.exports = {
     "comma-style": ["warn", "last"],
     "computed-property-spacing": ["warn", "never", { enforceForClassMembers: true }],
     "constructor-super": "warn",
-    "curly": ["warn", "multi-line"],
+    "curly": ["warn", "all"],
     "default-case-last": "warn",
     "dot-location": ["warn", "property"],
     "dot-notation": ["warn", { allowKeywords: true }],

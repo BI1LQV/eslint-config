@@ -186,7 +186,6 @@ module.exports = {
 
     // Common
     "semi": ["warn", "never"],
-    "curly": ["warn", "multi-or-nest", "consistent"],
     "quotes": ["warn", "double"],
     "no-unused-vars": "warn",
     "no-param-reassign": "off",
