@@ -325,5 +325,6 @@ module.exports = {
     "bi1lqv/if-newline": "warn",
     "bi1lqv/import-dedupe": "warn",
     // 'bi1lqv/prefer-inline-type-import': 'error',
+    "prefer-const": "off",
   },
 }
