@@ -223,13 +223,6 @@ module.exports = {
 
     // es6
     "no-var": "warn",
-    "prefer-const": [
-      "warn",
-      {
-        destructuring: "any",
-        ignoreReadBeforeAssign: true,
-      },
-    ],
     "prefer-arrow-callback": [
       "warn",
       {

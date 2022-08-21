@@ -193,7 +193,6 @@ module.exports = {
     "one-var": ["warn", { initialized: "never" }],
     "operator-linebreak": ["warn", "after", { overrides: { "?": "before", ":": "before", "|>": "before" } }],
     "padded-blocks": ["warn", { blocks: "never", switches: "never", classes: "never" }],
-    "prefer-const": ["warn", { destructuring: "all" }],
     "prefer-promise-reject-errors": "warn",
     "prefer-regex-literals": ["warn", { disallowRedundantWrapping: true }],
     "quote-props": ["warn", "consistent"],
