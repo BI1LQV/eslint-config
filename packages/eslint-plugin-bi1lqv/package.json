@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-bi1lqv",
-  "version": "0.26.6",
+  "version": "0.26.7",
   "license": "MIT",
   "homepage": "https://github.com/bi1lqv/eslint-config",
   "main": "./dist/index.cjs",
